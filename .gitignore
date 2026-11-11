@@ -1,0 +1,3 @@
+# Python cache folders
+__pycache__/
+*.pyc
